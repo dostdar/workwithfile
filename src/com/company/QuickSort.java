@@ -1,5 +1,7 @@
 package com.company;
 
+			//sina ebrahimi data strucher project
+
 import java.util.Random;
 
 public class QuickSort {
