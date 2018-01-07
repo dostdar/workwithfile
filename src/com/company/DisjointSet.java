@@ -1,6 +1,6 @@
 package com.company;
 
-		//sina ebrahimi data strucher project
+		//sina ebrahimi data structure project
 
 
 public class DisjointSet {
