@@ -1,5 +1,7 @@
 package com.company;
 
+//sina ebrahimi data structure project
+
 public class FileDetails {
     int numberofvertex;
     int numberofyal;
