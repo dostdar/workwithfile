@@ -1,5 +1,8 @@
 package com.company;
 
+		//sina ebrahimi data strucher project
+
+
 public class DisjointSet {
     int[] parent ;
     int count ;
